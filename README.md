@@ -14,5 +14,5 @@ Welcome to my GitHub profile! I possess expertise in a variety of technologies. 
 📊 <b>Data Visualization Tools:</b> Amazon QuickSight, Tableau...<br/><br/>
 🚀 <b>Data Storage and Processing Technologies:</b> Trino, DuckDB...<br/><br/>
 🛠️ <b>Others:</b> RabbitMQ, KeyCloak, Docusaurus, OpenApi Specification, Swagger, Redoc...<br/><br/>
-🎓 <b>Degrees:</b> Electrical Engennering, MBA in Business Management and Innovation...
+🎓 <b>Degrees:</b> Electrical Engennering, MBA in Business Management and Innovation...<br/><br/>
 📫 Reach me at: saulo.va@protonmail.com<br/>
